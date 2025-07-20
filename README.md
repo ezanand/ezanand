@@ -8,9 +8,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,tailwind,js,mongodb,mysql,cpp,c,py,java,php,html,css,git,github" height="60" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,aws,vscode,docker" height="60" />
-</div>
 
 ---
 
