@@ -1,24 +1,64 @@
-<h1 align="center">Hi 👋, I'm Anand Raj Singh</h1>
-<h3 align="center">A passionate frontend-backend developer from India.</h3>
+<h1 align="center">Hey 👋, What's Up? I'm Anand Raj Singh</h1>
 
-- 🌱 I’m currently learning **Cloud integration , AI integration , TypeScript.js .**
+<h3 align="center">🚀 Full-Stack Developer | AI Explorer | Cloud Learner | TypeScript Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ezanand?tab=repositories](https://github.com/ezanand?tab=repositories)
+---
 
-- 💬 Ask me about **react , C++**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,tailwind,js,mongodb,mysql,cpp,c,py,java,php,html,css,git,github" height="60" />
+</div>
 
-- 📫 How to reach me **anandraj.singh2003@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,aws,vscode,docker" height="60" />
+</div>
 
-- ⚡ Fun fact **Sky is blue .**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anand-raj-singh9608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-raj-singh9608" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anandraj_singh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandraj_singh21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anandraj03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandraj03" height="30" width="40" /></a>
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anand-raj-singh9608" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.leetcode.com/anandraj03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/anandraj_singh21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:anandraj.singh2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezanand&show_icons=true&locale=en&layout=compact" alt="ezanand" /></p>
+### 💻 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ezanand&theme=github-dark&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ezanand&theme=github-dark&no-frame=false&row=1&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezanand/ezanand/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezanand/ezanand/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ezanand/ezanand/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 🧠 Current Focus
+
+- Cloud-native app deployment (AWS, Vercel)
+- AI Tools with Transformers.js
+- Clean architecture in full-stack systems
+- TypeScript mastery & reusable UI components
+
+---
+
+⭐ Feel free to explore my repositories and drop a ⭐ if you find something useful: [github.com/ezanand](https://github.com/ezanand)
